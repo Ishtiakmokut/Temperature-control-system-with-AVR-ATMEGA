@@ -1,0 +1,2 @@
+# Temperature-control-system-with-AVR-ATMEGA
+This project is for keeping temperature of a Greenhouse within a specified range. If the temperature is less than the lower limit, lights will be made ON (to increase the temp) and if it is more than the higher limit, fans will be made ON (to cool the house). The opposite will happen in the opposite cases. When the temp will be within the limit, all lights and fans will be put OFF to save power.
